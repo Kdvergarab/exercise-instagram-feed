@@ -28,7 +28,8 @@
     
 }
 
-body{background-color: rgb(205, 214, 216);}
+body{background-color: rgb(205, 214, 216);
+margin: 0;}
 
 .primertitulo{
     background-color: white;
@@ -36,6 +37,7 @@ body{background-color: rgb(205, 214, 216);}
     text-align: center;
 height: 70px;
 width: 1300px;
+margin: none;
 }
 .divtitulo{font-size: 20px;}
 .foto{height: 470px;
